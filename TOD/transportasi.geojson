@@ -1,0 +1,15 @@
+{
+"type": "FeatureCollection",
+"name": "transportasi",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Id": 0, "Ket": "Halte Portable" }, "geometry": { "type": "Point", "coordinates": [ 110.440637016841109, -7.783512084570511 ] } },
+{ "type": "Feature", "properties": { "Id": 0, "Ket": "Terminal Bus" }, "geometry": { "type": "Point", "coordinates": [ 110.437187017049084, -7.784156572064354 ] } },
+{ "type": "Feature", "properties": { "Id": 0, "Ket": "Halte Portable" }, "geometry": { "type": "Point", "coordinates": [ 110.432925233159651, -7.783534297481379 ] } },
+{ "type": "Feature", "properties": { "Id": 0, "Ket": "Halte Portable" }, "geometry": { "type": "Point", "coordinates": [ 110.429868259158951, -7.782280777883831 ] } },
+{ "type": "Feature", "properties": { "Id": 0, "Ket": "Halte Portable" }, "geometry": { "type": "Point", "coordinates": [ 110.430230983420998, -7.778727714364482 ] } },
+{ "type": "Feature", "properties": { "Id": 0, "Ket": "Jembatan Penyeberangan Orang" }, "geometry": { "type": "Point", "coordinates": [ 110.433510891042289, -7.783567532565923 ] } },
+{ "type": "Feature", "properties": { "Id": 0, "Ket": "Jembatan Penyeberangan Orang" }, "geometry": { "type": "Point", "coordinates": [ 110.438717258766417, -7.78347709608377 ] } },
+{ "type": "Feature", "properties": { "Id": 0, "Ket": "Stasiun" }, "geometry": { "type": "Point", "coordinates": [ 110.436038658391496, -7.784809523197576 ] } }
+]
+}
